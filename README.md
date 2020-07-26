@@ -9,5 +9,7 @@
      - Maze Pathfinding
 
 - Assignment 3
-  - Perceptron to simulate and classify an image with a 2x2 pixels
+  - Perceptron to simulate and classify an image with 2x2 pixels
   - Artificial Neural Network
+
+- Project: Skin Cancer Detection with Deep Learning
